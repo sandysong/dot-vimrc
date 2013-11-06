@@ -20,7 +20,7 @@ set fdm=marker
 "--------
 " color scheme
 set background=dark
-color solarized
+color vividchalk 
 
 " highlight current line
 au WinLeave * set nocursorline nocursorcolumn
