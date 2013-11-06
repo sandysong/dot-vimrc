@@ -12,6 +12,9 @@ syntax on
 " set ctags
 set tags=tags
 
+" set foldmethod
+set fdm=marker
+
 "--------
 " Vim UI
 "--------
